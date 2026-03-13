@@ -1,0 +1,9 @@
+{
+  "benchmark": "ScreenSpot",
+  "models": [
+    {"name": "GPT-4V", "accuracy": "31.1%"},
+    {"name": "CogAgent", "accuracy": "22.9%"},
+    {"name": "SeeClick", "accuracy": "11.3%"}
+  ],
+  "last_updated": "2025-01-08"
+}
